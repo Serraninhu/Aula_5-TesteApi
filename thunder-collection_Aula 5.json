@@ -1,0 +1,35 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Aula 5",
+    "collectionId": "18bd6bcd-9d76-4f44-ab16-1397d7c29af6",
+    "dateExported": "2025-10-01T23:03:05.659Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "b643b662-e802-4430-8ed4-2d63fa14b69b",
+            "colId": "18bd6bcd-9d76-4f44-ab16-1397d7c29af6",
+            "containerId": "",
+            "name": "Endpoint /alert",
+            "url": "http://localhost:3000/alert?city=Sydney&country=AU",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2025-10-01T23:01:56.222Z",
+            "modified": "2025-10-01T23:01:56.222Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "city",
+                    "value": "Sydney",
+                    "isPath": false
+                },
+                {
+                    "name": "country",
+                    "value": "AU",
+                    "isPath": false
+                }
+            ]
+        }
+    ],
+    "ref": "px59oVvXZRGJ3t8DU1AEI-r7BJ2CSPFfUVzGOxLdIMqr6i9oXTaiIUgXyzymHeQZWuL7M4bjUqiiE4Hxhkikww"
+}

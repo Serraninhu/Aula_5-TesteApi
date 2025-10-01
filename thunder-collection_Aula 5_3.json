@@ -1,0 +1,35 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Aula 5",
+    "collectionId": "b6abd96e-8dee-46eb-96ba-01353fcefde4",
+    "dateExported": "2025-10-01T23:06:31.778Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "8d7b42db-3fb7-4bc0-b450-9e71ec5ea8dc",
+            "colId": "b6abd96e-8dee-46eb-96ba-01353fcefde4",
+            "containerId": "",
+            "name": "Endpoint /weather",
+            "url": "http://localhost:3000/weather?city=Tokyo&country=JP",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2025-10-01T23:06:22.301Z",
+            "modified": "2025-10-01T23:06:22.301Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "city",
+                    "value": "Tokyo",
+                    "isPath": false
+                },
+                {
+                    "name": "country",
+                    "value": "JP",
+                    "isPath": false
+                }
+            ]
+        }
+    ],
+    "ref": "W__Df8DfumXT28w68uWXjKv2KQDI41sQM-TR-FpuQGJdGo4PsHRGoZ5yYoY62R9f99Vob1nBToSyKQyQ9CuO9A"
+}

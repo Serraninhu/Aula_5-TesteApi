@@ -1,0 +1,30 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Aula 5",
+    "collectionId": "7328fad6-0c8f-4307-ae0d-d4b83e941942",
+    "dateExported": "2025-10-01T23:05:38.219Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "cf9a8f70-6654-4288-bb2d-91a125f91203",
+            "colId": "7328fad6-0c8f-4307-ae0d-d4b83e941942",
+            "containerId": "",
+            "name": "Endpoint /multiple",
+            "url": "http://localhost:3000/multiple?cities=Rio de Janeiro,São Paulo,Belo Horizonte",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2025-10-01T23:05:29.404Z",
+            "modified": "2025-10-01T23:05:29.404Z",
+            "headers": [],
+            "params": [
+                {
+                    "name": "cities",
+                    "value": "Rio de Janeiro,São Paulo,Belo Horizonte",
+                    "isPath": false
+                }
+            ]
+        }
+    ],
+    "ref": "RuhYF2YVHBE8naOyUZi3GjKHYLygwOnzV5RITK3ahIc3DLb5ZzmRm4Nrig-oSA6nSMxm_XQU3QwJWvirA-JvMg"
+}
